@@ -2,8 +2,8 @@
 
 Introducing Weather App, the app that displays a 5-day weather forecast from OpenWeather API. Stay informed with real-time updates. Plan your activities, receive alerts, and never be caught off guard by the weather again. 
 
-<img src="https://github.com/gurungsuraaj/weather_app/assets/29848705/68567290-4100-4623-a9fe-0aefe7d566ff" width="250">   
-<img src="https://github.com/gurungsuraaj/weather_app/assets/29848705/aa5140c6-c85e-4ff4-aea3-ff99dc20977a" width="250">
+<img src="https://github.com/gurungsuraaj/weather_app/assets/29848705/833b203b-243a-40fd-bd84-ccd5b6cabd6b" width="250">   
+<img src="https://github.com/gurungsuraaj/weather_app/assets/29848705/9e065f61-632e-4c17-b0e6-4115389f966b" width="250">
 
 ## Installation
 
